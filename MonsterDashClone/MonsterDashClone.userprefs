@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/HUDFPS.cs">
+    <Files>
+      <File FileName="Assets/wallscript.cs" Line="23" Column="32" />
+      <File FileName="Assets/cameraScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/bgscript.cs" Line="1" Column="1" />
+      <File FileName="Assets/PlatformGenerator.cs" Line="64" Column="57" />
+      <File FileName="Assets/flyEnemyScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/zombieScript.cs" Line="29" Column="2" />
+      <File FileName="Assets/HUDFPS.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
